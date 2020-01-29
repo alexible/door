@@ -11,5 +11,5 @@ def string_test(s):
     print ("The Upper case characters : ", d["UPPER_CASE"])
     print ("The Lower case Characters : ", d["LOWER_CASE"])
 
-x = input("Enter your own text :  ")
-string_test(x)
+a = input("Enter your own text :  ")
+string_test(a)
